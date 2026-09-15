@@ -1,4 +1,4 @@
-# Game Studio Brainstorming Template
+# Game Studio Brainstorming 
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
@@ -37,9 +37,9 @@
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Competitive players, collectors, and those interested in learning more about the setting of our games.
+- **Interests:** Strategic gameplay within a grimdark-esque fantasy setting.
+- **Platforms:** PC and physical games
 
 ---
 
@@ -47,8 +47,8 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Our studio will focus on creating strategy tabletop miniature games.
+- Most games will be based in fantasy settings.
 
 ---
 
@@ -62,16 +62,17 @@
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity would be the main engine I would use, as it is the engine I have the most experience in.
+- **Art Tools:** Most art would be created within Aseprite initially, but it may be edited within an image editing software after, such as Photoshop.
+- **Audio Tools:** To create sound effects, I would use Audacity.
+- **Version Control:** Github would be used for tracking.
+- **Publishing Platforms:** For publishing, I would initially publish projects on itch, but ideally, I would like to have our games published on Steam later.
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
+The visual identity our studio will adopt would be a mix of low-poly 3d with pixel art, aiming to recreate the visual style of games that were made in the DS - 3DS era.
 
 - **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
 - **Tagline Ideas:** 
