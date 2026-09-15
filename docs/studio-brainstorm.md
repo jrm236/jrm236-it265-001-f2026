@@ -20,7 +20,7 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> The goal of my studio is to create an expansive world setting that is explored through multiple games. Each game would expand upon the setting's worldbuilding.
+The goal of my studio is to create an expansive world setting that is explored through multiple games. Each game would expand upon the setting's worldbuilding.
 
 ---
 
@@ -29,7 +29,7 @@
 
 - Player customization
 - Distinct playstyles
-- Collection
+- Hobby collection
 - Complexity in simple rulesets
 
 ---
@@ -78,7 +78,7 @@ The visual identity our studio will adopt would be a mix of low-poly 3d with pix
 - **Tagline Ideas:** 
   - Ponderin' my orb
   - We love casting spells
-  - 
+  - I cast: Buy my game for $20 
 
 -- **Sketches/Logo**:
 
@@ -89,4 +89,4 @@ The visual identity our studio will adopt would be a mix of low-poly 3d with pix
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+N/A
