@@ -11,28 +11,28 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [X] Completed setting up github
+- [x] Complete 9/15 devlog
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > This week, I focused on doing the studio brainstorm and devlog module 1 exercises
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >  I experienced an error in the actions tab because I had named my docs folder Docs instead
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > I renamed the folder then everything worked after
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Learned more about github and using commands in git
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  Focus on brainstorming more ideas for the semester project
