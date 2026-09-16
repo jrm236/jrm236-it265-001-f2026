@@ -4,11 +4,10 @@
 - **Primary Ideas:**
   - Team Deforestation
   - Bit-Crushed Wizard
-  - 
+  - Iron Mask
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Well-timed Fireball
+  - Inconspicuous Rat
 
 - **Chosen Name**: Bit-Crushed Wizard
 - **About the name**: I needed to get more mileage out of an old video I made for a project, so I decided to create a studio based on it.
@@ -55,7 +54,7 @@ The goal of my studio is to create an expansive world setting that is explored t
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> The thing that will make our games stand out from other competition is that it'll aim to be affordable while still allowing the customization other games allow.
+The thing that will make our games stand out from other competition is that we aim to be affordable while still allowing the same level of customization other games allow.
 
 ---
 
@@ -82,7 +81,7 @@ The visual identity our studio will adopt would be a mix of low-poly 3d with pix
 
 -- **Sketches/Logo**:
 
-<img width="962" height="766" alt="image" src="https://github.com/user-attachments/assets/f598fb32-2996-432c-bf11-a980ba23a195" />
+<img width="721" height="574" alt="image" src="https://github.com/user-attachments/assets/f598fb32-2996-432c-bf11-a980ba23a195" />
 
 ---
 
