@@ -4,11 +4,11 @@ This records design reasoning. Keep your weekly GitHub dev log separately.
 
 ## Entry Details
 
-**Date:**
+**Date:** 9/26/2026
 
 **Working game title:**
 
-**Project stage:**
+**Project stage:** Pre-development Documentation
 
 **Entry type:**
 
@@ -28,7 +28,7 @@ Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
 
 **Section and specific idea:**
 
-**Relevance today:** Still relevant / partly relevant / no longer relevant / uncertain
+**Relevance today:** **Still relevant** / partly relevant / no longer relevant / uncertain
 
 **Reason and supporting example:**
 
