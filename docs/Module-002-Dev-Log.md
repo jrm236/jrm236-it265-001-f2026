@@ -1,38 +1,31 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Jerald Mirandilla
+### Module: Module 2
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [09/28/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [X] Complete one-page treatment
+- [ ] Peer-feedback sheets x3
+- [ ] First journal entry
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - This week I made progress on my one-page treatment; I have generally filled out most of the info needed for it, except the scope section. Additionally, I have finished 2 out of the 3 peer-feedback sheets, although I haven't begun filling out the first journal entry.
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - When writing the one-page treatment, the main problem I encountered was around how to define the scope of my project. This was mainly around how I could define every aspect I have written out in physical form. 
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - To solve the problem, I looked at how other similar games solve theirs. For example, in the Pokémon TCG, damage is shown through damage counters. The main function of these counters is to keep track of the damage that has been done to a Pokémon. In the case of my game, I had trouble deciding how to solve the same problem, so instead of going down the route of just having the players write it down, which would become troublesome to keep count of, I decided that I should use a similar damage counter system using dice to represent the health of a unit. Now, when a game starts, both players will place a D20 or any dice that can reach the unit's max health on the unit token. When the unit takes damage, the player will simply move the dice to show the new health amount at the top.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Unanswered
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> N/A
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> Next, I want to flesh out the different units for my game, including how much each unit can do and what the limits should be for balance. 
