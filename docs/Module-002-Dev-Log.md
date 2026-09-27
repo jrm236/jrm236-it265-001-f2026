@@ -20,7 +20,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered
+> Learned about creating an initial pitch for a game idea and considered what was a valid and enjoyable gameplay mechanic based on feedback.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
