@@ -1,6 +1,6 @@
 # IT265 Module 2: One-Page Treatment
 
-**The Red Arrival:**
+**N/A**
 
 Write one coherent, one-page-length treatment. Use the four prompts to begin, then combine your answers into natural prose.
 
