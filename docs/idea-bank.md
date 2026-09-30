@@ -11,9 +11,9 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-| | | | |
-| | | | |
-| | | | |
+|  | A grid tactics game where players pick a faction and create a loadout of three units to fight another player on a 5x5 grid. Players receive three action points per turn that can be delegated to activate their units. The game ends when one side has lost all of their units. | **ready to pitch** | |
+| **NecroForge** | A monopoly-esque board game where players create their own monsters using random body part cards. Players move around the board to fight enemies and other players for currency to purchase new body part cards. After a set number of turns, the game ends, and the player with the most points from PvP wins the game. | **scope risk** | |
+| **Worlds Worst Wizards**  | A game similar to Cards Against Humanity, where players combine randomly drawn word and effect cards to create spells, then vote on who has the best card.  | **unclear loop**  | |
 
 **Two or three concepts to pitch:**
 
