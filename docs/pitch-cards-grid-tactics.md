@@ -9,17 +9,17 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 ## Pitch Card
 
-**Working title:** 
+**Working title:**
 
-**Player role and situation:** The players are necromancers who are competing for parts to augment their undead golem inside a large graveyard.
+**Player role and situation:**
 
-**Repeated decision or action:** Players move around the board, fight monsters, earn currency, then decide which parts to buy to attach and improve their monster.
+**Repeated decision or action:**
 
-**Goal, pressure, or ending:** Players have a limited number of turns to strengthen their monster and fight other players. Points are earned through winning these fights and determine who the winner of the game is.
+**Goal, pressure, or ending:**
 
-**Hook:** Players get to create their own custom monster utilizing the body cards that can change their abilities and stats.
+**Hook:**
 
-**Smallest useful physical prototype:** The smallest prototype version of this game could use a simple paper board, tokens to represent the players and monsters, handwritten body-cards to collect, and dice for combat and currency upkeep. 
+**Smallest useful physical prototype:**
 
 **Question I want listeners to answer:**
 
