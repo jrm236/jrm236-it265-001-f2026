@@ -21,6 +21,6 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 **Smallest useful physical prototype:** The smallest useful prototype for this game could use paper to handwrite each card. Additionally, to keep track of points, the first physical prototype could use coins.
 
-**Question I want listeners to answer:**
+**Question I want listeners to answer:** Would the current way cards work be flexible enough to make new and funny spells constantly.
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
