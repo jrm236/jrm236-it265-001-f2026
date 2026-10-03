@@ -21,6 +21,6 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 **Smallest useful physical prototype:** This prototype can use a 5x5 cardboard grid, tokens to represent units and terrain, dice for upkeep, and a piece of paper noting the stats and unique ability of each faction and their units.
 
-**Question I want listeners to answer:**
+**Question I want listeners to answer:** Does the current board size and limited terrainb options allow for enough tactical choices?
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
