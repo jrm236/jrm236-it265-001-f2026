@@ -9,7 +9,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 ## Pitch Card
 
-**Working title:** 
+**Working title:** Borrowed Parts
 
 **Player role and situation:** The players are necromancers who are competing for parts to augment their undead golem inside a large graveyard.
 
