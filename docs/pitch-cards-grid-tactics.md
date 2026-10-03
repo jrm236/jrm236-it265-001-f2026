@@ -9,7 +9,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 ## Pitch Card
 
-**Working title:**
+**Working title:** Grid-Tactics Game (WIP title)
 
 **Player role and situation:** Players control a group of units from a unique chosen faction and skirmish against another on a 5x5 grid.
 
