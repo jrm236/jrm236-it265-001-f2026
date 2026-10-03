@@ -9,9 +9,9 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
-| | | | | |
+| Grid-Tactics Game| Yes | | | The largest factor that could be risky to test would be the grid and whether or not it is truly large enough to allow for enough tactical choice and balance. |
+| | Yes | | | The risk with this game comes from whether or not the monster-building, combat, and currency systems work together enough to make a fun experience without making it too complicated for the players. |
+| Worlds Worst Wizards| Mostly | Players can create funny and unique spell names and effects from different card combinations. | Yes | The main risk would be whether or not players find the possible combinations funny or interesting enough after several rounds. |
 
 **Selected concept and reason:**
 
