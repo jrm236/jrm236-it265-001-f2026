@@ -19,8 +19,8 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 **Hook:** Players get to create their own custom monster utilizing the body cards that can change their abilities and stats.
 
-**Smallest useful physical prototype:** The smallest prototype version of this game could use a simple paper board, tokens to represent the players and monsters, handwritten body-cards to collect, and dice for combat and currency upkeep. 
+**Smallest useful physical prototype:** The smallest prototype version of this game could use a simple paper board, tokens to represent the players and monsters, handwritten body cards to collect, and dice for combat and currency upkeep. 
 
-**Question I want listeners to answer:**
+**Question I want listeners to answer:** What do the players think about the winning condition? Should it be changed to something else?
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
