@@ -11,9 +11,9 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-|  | A grid tactics game where players pick a faction and create a loadout of three units to fight another player on a 5x5 grid. Players receive three action points per turn that can be delegated to activate their units. The game ends when one side has lost all of their units. | **ready to pitch** | |
-| **Borrowed Parts** | A monopoly-esque board game where players create their own monsters using random body part cards. Players move around the board to fight enemies and other players for currency to purchase new body part cards. After a set number of turns, the game ends, and the player with the most points from PvP wins the game. | **scope risk** | |
-| **Worlds Worst Wizards**  | A game similar to Cards Against Humanity, where players combine randomly drawn word and effect cards to create spells, then vote on who has the best card.  | **unclear loop**  | |
+| Grid-Based Tactics Game (W.I.P) | A grid tactics game where players pick a faction and create a loadout of three units to fight another player on a 5x5 grid. Players receive three action points per turn that can be delegated to activate their units. The game ends when one side has lost all of their units. | **ready to pitch** | This game idea is ready to pitch because the loop, goal, and prototype are clearly defined. |
+| **Borrowed Parts** | A monopoly-esque board game where players create their own monsters using random body part cards. Players move around the board to fight enemies and other players for currency to purchase new body part cards. After a set number of turns, the game ends, and the player with the most points from PvP wins the game. | **scope risk** | The scope for this game could get out of hand depending on how I want to handle monster parts and the complexity of a combat system. |
+| **Worlds Worst Wizards**  | A game similar to Cards Against Humanity, where players combine randomly drawn word and effect cards to create spells, then vote on who has the best card.  | **unclear loop**  | The loop itself isn't clear beyond being funny. There isn't much room for strategy beyond combining the cards and voting. |
 
 **Two or three concepts to pitch:**
 
