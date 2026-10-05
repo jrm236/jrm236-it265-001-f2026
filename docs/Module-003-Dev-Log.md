@@ -1,38 +1,31 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Jerald Mirandilla
+### Module: 003 Dev Log
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [10/5/2026]
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [X] Concept Workshop
+- [X] Peer feedback x2  
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - This week, I made progress to complete the concept workshop assignment. I completed all of the required pieces for the submission, including receiving peer feedback from others. Additionally, I have begun to work on designing some of the internal aspects of my game.
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - I didn't really face any major problems when finishing the assignments, but I did realize that my current concept might have future problems with its systems interacting with one another. For example, I planned for a smaller grid to make games quick and not too lengthy, but with the current action point system it might make games too quick.
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - I haven't solved it completely as of now, but when the first prototype roles around, I will focus on thoroughly testing this specific aspect of the game. Additionally, when designing the units, I will keep the smaller grid in mind to emphasize balance between units.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> From the textbook, I learned how gameplay can emerge from the inital rules we write as well as how we can't be certain that things will work just by writing it down.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  N/A
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  The next focus I have will be to begin designing units and the abilities for the factions in my game.
