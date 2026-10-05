@@ -6,7 +6,6 @@
 ### Date: [10/5/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
 - [X] Concept Workshop
 - [X] Peer feedback x2  
 
