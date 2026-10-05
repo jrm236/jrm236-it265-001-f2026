@@ -36,11 +36,11 @@ Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
 
 ## Progress and Evidence
 
-**What I created, changed, tested, or decided:**
+**What I created, changed, tested, or decided:** As of now, I have developed the basic structure and gameplay loop for my game, including all of the major gameplay systems such as action points, faction abilities, units and what stats they should have, and terrain.
 
-**Direct artifact link or specific observation:**
+**Direct artifact link or specific observation:** After looking back at my design documents, one observation I made is that the main focus of the game stems from choosing which units to activate. With the current action point system, there is an opportunity cost with selecting either two middling units, one strong unit, or the same weaker unit three times.
 
-**What the evidence confirms:**
+**What the evidence confirms:** The current design of the game confirms to me that the game does have a clear loop.
 
 **What remains uncertain:** As of now, it is still uncertain if the current board size is large enough for the game to be played effectively and enjoyed by both players.
 
@@ -60,4 +60,4 @@ Keep the working model in the journal. The treatment needs only the timing conte
 
 **Next prototype, reader test, or design decision:** For the next action regarding this project, I'll start collecting materials needed to build out the first prototype, and I'll start to design more of the internal aspects of the game, such as unit stats.
 
-**Uncertainty it will address:** 
+**Uncertainty it will address:** After designing units, it may become clearer to me if the board size is truly a problem for the game.
