@@ -20,19 +20,19 @@ This records design reasoning. Keep your weekly GitHub dev log separately.
 
 **Selected concept and alternatives kept:** The concept I selected was the Grid-Based Tactics game. I have also decided to keep the other two concepts as alternatives in case this idea proves too complicated.
 
-**Peer feedback that affected the decision:**
+**Peer feedback that affected the decision:** The peer feedback I got made me believe that the tactics game would be the best to design within a shorter timeframe while still allowing for a lot of creativity. 
 
 ## Reading Connection
 
 Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
 
-**Section and specific idea:**
+**Section and specific idea:** Feasibility - Developmental pg. 21. This section talks about how gameplay can emerge from rules, but the designers can't know how it will actually play until a prototype is created.
 
 **Relevance today:** **Still relevant** / partly relevant / no longer relevant / uncertain
 
-**Reason and supporting example:**
+**Reason and supporting example:** This is relevant to my current design because I have already written most of the rules for my game, including action points, unit stats, terrain, and faction abilities. As of now, I don't really know if all of these systems work together perfectly, for example, with the current action point system, I don't know if it will make lower tiered units broken within the game.
 
-**Connection to a choice or test for my game:**
+**Connection to a choice or test for my game:** As such, when I do the first prototype and begin designing the units for the game, I will take more consideration with deciding on what values the units should have and how they will interact with the board.
 
 ## Progress and Evidence
 
