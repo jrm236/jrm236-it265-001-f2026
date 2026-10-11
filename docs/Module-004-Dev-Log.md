@@ -25,7 +25,7 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> To gain further inspiration for my project, I have been replaying some games in the tactics genre to help decide on some design aspects of my game. In particular, I've been playing Final Fantasy Tactics and looking at some of the aspects seen in the game XCOM 2. The things I've mainly been looking at are the gameplay tools players are given through their characters as well as terrain/level design, specifically how these games are balanced around having ranged and melee characters.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
