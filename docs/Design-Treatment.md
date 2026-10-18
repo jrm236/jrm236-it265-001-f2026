@@ -25,6 +25,10 @@ or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
 [Describe the premise and the player's place in it.]
 
+My game takes place in a dark-fantasy setting that has begun to experience the strange appearance of a mysterious brackish red smoke that unpredictably transforms those who come into contact with it into different monsters. People and animals turned by the mist begin to act more like an infection, swarming the surrounding area in hordes, aiming to inflict others with the disease.
+
+Different groups have developed their own response to the appearance of the smoke and are not necessarily allied with one another, as each faction has its own goals for how to either harness or destroy the upcoming threat. Players must choose one of these factions and command a small group of three units that represent their faction's unique identity.  
+
 ## Gameplay
 
 <!-- Explain the player's objectives, the conflicts or challenges, and how play
@@ -34,14 +38,20 @@ current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
 [Describe the goals, challenges, and ending.]
 [Describe the player's goals and challenges.]
-
 [Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
+
+The game is a two-player competitive tactical skirmish game. Each player begins with three units belonging to their chosen faction. Units are divided into three different tiers, with each one representing their strength in ascending order, with Tier 1 units being the weakest and Tier 3 being the strongest. The objective is to eliminate all of the opposing player's units. Players must manage their units' positions and health by using a regenerating action-point resource each turn. Terrain can interfere with movement and attacks, while each unit's statblock determines how far they can move, how difficult they are to hit, and how much damage they can deal.
+
+Each faction also has a special ability tied to a limited resource. Players begin with a total of three of this resource and can spend it only once per turn. These points don't regenerate, meaning the player can only use their faction's ability a maximum of three times in a game, allowing for thoughtful decision-making for the player as they can either save these resources or use them to potentially gain an advantage. 
+
 ### Setup And Start
 
 <!-- Describe the starting state: how the play area and pieces are arranged,
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
 [Explain how a game is set up and begins.]
+
+Before a game starts, players must choose a faction and create a loadout consisting of one Tier 1, 2, and 3 unit. Then players can either select or draw a terrain card from a pool. These cards depict the layout of the battlegrounds the players will be fighting on, indicating where on a 6x6 grid certain terrain objects such as trees or boulders should be placed on the board. Additionally, each card should have highlighted grids of either red or blue, depicting where that side's player can place their units once a game begins. After the terrain has been placed on the game board, each player can then place their three units on their available spaces. Players then flip a coin to determine who will take their turn first. Once the game begins, each player will start with three Faction Points (FP) and Action Points (AP).
 
 ### Core Gameplay Loop
 
@@ -50,11 +60,15 @@ them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
 [Explain what the player considers, chooses or does, and how that changes the next decision.]
 
+At the start of each turn, players receive three Action Points (AP). These points can be spent to activate units, and the cost depends on the tier of the unit. Creating a choice between activating one's weaker unit multiple times or spending all AP to activate your stronger units for the turn. When a unit is activated, the player can move it according to its movement value and attack an opposing unit if the target is within its range. Once an attack is initiated, the player must first roll a D6 to determine the accuracy of the attack. The result of the roll is compared to the Armor Value (AV) of the opposing unit, with the roll needing to be higher than the unit's AV. If the attack is successful, the attacker can then roll the damage dice listed on the attacking unit and deal damage to the target's HP by the total. Throughout this process, the players constantly need to decide which unit is the best to activate for the turn, where they should move, who should be targeted, and whether or not they should use an FP to activate their ability. After the current active player has spent their AP or chooses to end their turn, the turn moves to the opposing player. 
+
 ### Ending And Outcome
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
 [Explain the end conditions and resulting outcome.]
+
+The game ends once all three units belonging to one player have been reduced to zero HP and removed from the field.
 
 ## First Physical Prototype
 
@@ -77,7 +91,13 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 
 | Piece or material | Quantity for setup | What it represents | How it is used |
 | --- | --- | --- | --- |
-| [Piece or material] | [Quantity, if needed] | [Game meaning] | [Player action or rule it supports] |
+| 6x6 Grid | 1 | The game board | Players move their units between spaces to facilitate combat for the game |
+| Unit Tokens | 6 | Represent the playable units | Placed and moved along the board to represent the player's units |
+| Unit Cards | 6 | Show the statistics of each unit | Used to check HP, Movespeed, AV, Damage, Range, and Tier |
+| Terrain Tokens | As needed per card  | Represents potential obstacles | Placed on the board to block movement and provide variety |
+| Level Cards | 1 | The current battleground | Shows where terrain should be placed on the grid  |
+| Dice | 2 sets of D4, D6, D8, etc | Represents damage values, accuracy, AP and FP| Used to keep track of different values within the game or used to facilitate combat such as accuracy and damage rolls |
+| Coin | 1 | As needed per action | Either flipped at the start of the game to determine who goes first or utilized to determine effects from faction abilities |
 
 ### Materials And Mechanic Adjustments
 
@@ -93,6 +113,8 @@ readable materials and actual design choices. -->
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
 [Describe the intended players and why the game fits them.]
+
+The game is intended for players who enjoy competitive tactics games, tabletop skirmish games, different factions, and customization. The usage of only three units is intended to make the game easier to understand than other larger-scale wargames, as well as shorter, while still giving players several decisions to make each turn. Each player has to only manage three units, but differences in their tier, positioning, terrain, and their faction ability can create multiple ways to approach a turn. Players who enjoy experimenting with different playstyles may also enjoy how each faction is designed around a different strategy. For example, one faction titled the Fungal Crusaders focuses on using slower and tanker units, with their faction ability allowing them to heal and reduce the damage of the next attack taken, while other factions go down the route of needing to swarm around the enemy for extra bonuses through their faction ability.
 
 ## Accessibility And Inclusivity
 
