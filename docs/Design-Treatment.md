@@ -124,6 +124,8 @@ preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
 [Describe the accessibility choices and how they support play.]
 
+ The game will avoid using color only to communicate any important gameplay info. Unit tiers, stats, terrain, and other meaningful info will be able to be identified through text and symbols. This is especially important because the board will contain several different units and terrain at the same time. Each unit should have a corresponding Unit Card that should use large, readable text and symbols to keep info such as the unit's Health, Move Speed, Armor Value, and Damage range easily found and understandable. The grid structure of the game also helps make movement and range calculation easier for the players to understand because they can be easily counted.
+
 ## Unique Selling Points (USP)
 
 <!-- Unique selling points are the distinctive design choices that give intended
@@ -134,12 +136,16 @@ players' experience; support the comparison with concrete design details.
 Explain why the difference would make play more interesting to those players. -->
 [Explain the game's unique selling points and the relevant comparison.]
 
+This game takes inspiration from multiple different tactical RPGs and other tabletop games such as Final Fantasy Tactics, Warhammer 40K, D&D, and Trench Crusade, but combines different aspects from these games to create a smaller and more focused format. In particular, the gameplay loop and abilities are inspired by the ones seen in FFTactics and D&D; the theme and idea of the players choosing one playable faction with their own unique identity rather than a mix of several different ones comes from Warhammer and Trench Crusade. The main difference between this game and those it was inspired by is that the game is more focused on emulating a similar experience but in a faster way. Keeping the feeling of a tactical tabletop game while still keeping the scale small and manageable.
+
 ## Concept Pitch
 
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
 [Write the concise pitch.]
+
+My game is a competitive two-player tactics skirmish game that combines the ideas from different tactical RPGs and tabletop games into a smaller and faster format. Players choose a faction with its own unique identity, units, and abilities, then control three of them on a 6x6 grid. Each turn, players must decide how to spend resources such as Action Points to activate units to move and attack others, as well as position them around terrain for a potential tactical advantage. The game is intended for players who enjoy tactical decision-making in games such as Final Fantasy Tactics, D&D, and Warhammer 40k, but want to experience it in a more compact form. Rather than controlling large armies of minis in lengthy matches, players must focus on utilizing the three units they control, each with unique stats and their faction's special ability bolstering them further. Each faction encourages a different strategy, while the smaller grid battlefield puts players in the position of constant conflict with one another. The main goal of this design is to keep the feeling of a tactics tabletop game while reducing its scale to be easier to set up, understand, and play in a shorter time frame.
 
 ## Visual Direction
 
