@@ -156,8 +156,11 @@ the concept, style, space, or player interaction. Use Markdown image syntax with
 your image's actual path. The caption explains what the image represents and how
 its visual choices support the theme or intended player experience. -->
 [Insert the first sketch or storyboard image.]
+<img width="2880" height="2160" alt="SkirmishGamePhysImage1" src="https://github.com/user-attachments/assets/b3f18ebd-16db-4cb0-8708-0eb6c8964f7f" />
 
 **Caption:** [Explain what this image shows and why its visual choices fit the game.]
+
+This first image showcases the physical prototype of my game. In the image, you can see the 6x6 playing area and 6 different player tokens on opposing sides of the board. This showcases the general layout of the game, currently without any of the external pieces such as dice and terrain pieces. Additionally, the grid clearly shows each space the units can occupy. For the digital version of the game, this would still take aspects but would be greatly simplified in terms of visuals.
 
 ### Second Sketch Or Storyboard Panel
 
@@ -165,8 +168,10 @@ its visual choices support the theme or intended player experience. -->
 space, or moment. A second view should help the reader understand another part
 of the design. Connect its visual choices to the theme or player experience. -->
 [Insert the second sketch or storyboard image.]
-
+<img width="2880" height="2160" alt="SkirmishGamePhysImage2" src="https://github.com/user-attachments/assets/613dc04d-a888-442c-ba7a-901c769d0e29" />
 **Caption:** [Explain the distinct information this image adds and why its visual choices fit the game.]
+
+The second image is a more updated version of my game. In the image, you can see similar aspects such as the grid and player tokens, but there are multiple new additions to help with tracking, calculation, and strategy. For example, on the main grid there are new pieces added other than the player units; these are terrain pieces which have different effects on combat, such as decreasing the damage of ranged attacks or disallowing movement through the space. Following this, you can also see in the top left corner that there is a level card; these cards can be selected by players before they begin to dictate what stage they will be fighting on. On the card itself, you can see it shows the terrain placements as well as the spawn zones for both sides. Moving on, you can also see multiple dice and cards adjacent to the game board. The cards are unit cards, which dictate the different stats each unit has, such as their health, armor, damage, tier, etc. Above these cards are D20, which are used as a visual tracker to keep track of the current health of each unit. Above those are three smaller dice; these dice are used to track how many faction abilities a player has remaining. The dice under the cards are used for damage and accuracy calculation, with the pool consisting of one D4, D8, and two D6s, one of which is for damage and the other is for calculating the accuracy of an attack. Lastly, the coin in the top left is used to determine who goes first or helps with determining the outcomes of certain faction abilities. All of these added aspects provide much-needed info to help players understand and keep track of the game.
 
 ## Feedback And Revisions
 
