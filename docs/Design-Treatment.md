@@ -107,6 +107,8 @@ between playthroughs without rebuilding the whole prototype. Focus on usable,
 readable materials and actual design choices. -->
 [Explain the material choices and how mechanics can be adjusted during testing.]
 
+The physical prototype uses multiple different pieces that can be reused and changed to allow for different layouts and games the players can participate in. The main 6x6 board can easily be made (although in my case I put some work into making the board look good) and remains the same between games, while the separate terrain tokens and level cards allow the battlefield to be changed out easily. This makes it easily possible to test out different aspects and situations within the game. Unit cards, which would be made from paper, are also kept separate from the tokens so the individual stats can easily be rewritten. This is useful when testing the balance between each faction to see whether the imbalance of action points makes the lower-tiered units stronger than the others. Dice are used for nearly every mechanic, including calculation, because they make it easy to track. 
+
 ## Intended Players
 
 <!-- Identify the intended audience's relevant interests and play habits.
@@ -189,12 +191,12 @@ record only feedback and outcomes that actually occurred. -->
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| [Person 1] | [Observation] | [Revision or next test] |
-| [Person 2] | [Observation] | [Revision or next test] |
-| [Person 3] | [Observation] | [Revision or next test] |
-| [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
+| [J.M (Brother)] | [Ranged attacks within the game can be extremely powerful on the lower-tiered units. Additionally, it was noted that the faction abilities for some of the factions were extremely weak compared to the others.] | [After this, I ended up removing all of the ranged attacks on any of the tier 1 units and instead gave ranged attacks to the higher tier 2 or 3 units. Additionally, I buffed the faction that was weaker by making its activation condition more lenient.] |
+| [A.S (Friend)] | [Also mentioned an imbalance with faction abilities as well as how the 5x5 grid wouldn't be big enough with the intended gameplay.] | [After hearing this and doing some personal testing, I also concluded that the board size was actually too small, so I increased it to 6x6.] |
+| [A.C (Friend)] | [Mentioned that the current action point system can be confusing or limiting. ] | [In this when I began testing my game, I tried different stats on each unit to see how balanced the action point system is.] |
+| [J.M (Brother] | [Ranged attacks were very powerful and imbalanced faction abilities.] | [I removed ranged attacks from the tier 1 units and instead limited them for the higher tiers. I also strengthened the faction ability of the horde, which can increase the damage of their next attack against a target with two or more horde units adjacent to it, to now disable the need for two or more units if there is only one horde unit left on the field. This should make that faction stronger, as their whole gimmick was to swarm the opposing team; the new change now gives the added effect of putting the last unit into a last stand-esque situation. ] |
+| [A.S (Friend] | [The original grid was too small for the intended play.] | [I did some testing after this and agreed that the 5x5 board was too small, as it allowed the units to immediately run to the other side in one action and didn't leave a lot of space for placing down terrain tokens. After increasing the board size, the game now feels a lot more open and strategic with the positions available on the board.] |
+| [A.C (Friend)] | [Mentioned the potential problems with the action point system.] | [After testing, I determined that the action point system itself can have problems with balance and limiting actions, but it heavily depended on the stats of each unit. For example, I tested the move speeds of each unit and found that the tier 1 units being faster and also having a decently high health pool made the game feel like you should only activate the tier 1s instead of the other units. After making some changes to the stat spreads and making the tier 1s generally weaker, I found that the action point system does actually work well, so I decided to keep the current system.] |
 
 ## Physical Prototype Demo Plan
 
@@ -207,9 +209,9 @@ clear. Keep this as planning notes, not a second treatment or a full script. -->
 
 | Segment | What to show or explain | Planned time |
 | --- | --- | --- |
-| Introduction | Core concept and strongest USP | [Time] |
-| Prototype | Pieces, their meaning, and how players use them | [Time] |
-| Gameplay | A representative interaction and the ending or outcome | [Time] |
-| Feedback | A concrete design change and why it was made | [Time] |
+| Introduction | For the introduction, I would explain the core concept of the game and the main gameplay mechanic. Such as how players control three units from a selected faction on a 6x6 grid. Additionally, I would talk about the main intention of making this game and how it was created to invoke the feeling of a tactical tabletop game on a smaller scale. | [~45 seconds] |
+| Prototype | For this section, I would showcase the 6x6 grid, the different factions, their abilities, and units, the terrain pieces, level cards, and the dice needed to play. I would also briefly explain their intention and some of the mechanics that include them. | [~1 minute] |
+| Gameplay | During this time, I would demonstrate a normal turn. I would show visually each player allocating their action points to activate units, moving them according to their listed speed value, and attacking an enemy. I would also explain how the players are always faced with the decision to activate a weaker unit or put all of their points into activating their stronger ones for the turn.| [~2 minutes] |
+| Feedback | For this part, I would talk about how the game was initially planned to be a 5x5 grid and how, after feedback and some personal testing, it was changed to the current size of 6x6. | [~50 seconds] |
 
-**Planned total:** [Duration]
+**Planned total:** [~4:35 minutes]
