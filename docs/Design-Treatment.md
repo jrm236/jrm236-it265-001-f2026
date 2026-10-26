@@ -29,9 +29,9 @@ or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
 [Describe the premise and the player's place in it.]
 
-My game takes place in a dark-fantasy setting that has begun to experience the strange appearance of a mysterious brackish red smoke that unpredictably transforms those who come into contact with it into different monsters. People and animals turned by the mist begin to act more like an infection, swarming the surrounding area in hordes, aiming to inflict others with the disease.
+My game takes place in a dark-fantasy setting that has begun to experience the strange appearance of a mysterious brackish red mist that unpredictably transforms those who come into contact with it into different monsters. People and animals turned by the mist begin to act more like an infection, swarming the surrounding area in hordes, aiming to inflict others with the disease.
 
-Different groups have developed their own response to the appearance of the smoke and are not necessarily allied with one another, as each faction has its own goals for how to either harness or destroy the upcoming threat. Players must choose one of these factions and command a small group of three units that represent their faction's unique identity.  
+Different groups have developed their own response to the appearance of the mist and are not necessarily allied with one another, as each faction has its own goals for how to either harness or destroy the upcoming threat. Players must choose one of these factions and command a small group of three units that represent their faction's unique identity.  
 
 ## Gameplay
 
