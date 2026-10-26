@@ -1,4 +1,4 @@
-# [Working Game Title]
+# [Mist Marchers]
 
 _Game Design Treatment_
 
@@ -19,6 +19,10 @@ proposals. A finished prototype or digital implementation is not needed here.
 
 <!-- Explain why the working title fits. Mention alternative titles if useful. -->
 [Explain the title choice.]
+
+The current title for my game is Mist Marchers. The name itself comes from the general lore and setting of my game. It originates from how, in the world, a mysterious brackish red mist has slowly begun to spread throughout the world, transforming those who come into contact with it. As the mist expands, different factions enter the affected areas for their own reasons, whether to destroy, study, or take advantage of the chaos that comes from it. 
+
+The word "Marchers" is used to refer to the small exploration groups controlled by each unit as they move throughout these regions. The battles in the game represent the encounters that take place within the mist between the different factions or beings from the mist. Because each faction isn't necessarily allied with one another, these encounters can lead to conflict. The title is intended to represent both the setting and structure of the game.
 
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
@@ -77,10 +81,17 @@ boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
 [Describe the planned prototype, its pieces, and how they support play.]
+
+The physical prototype should use a 6x6 grid for the main playing area. Each player should have three unit tokens and their respective cards, with each one representing a tier. These tokens must be placed on the board according to the chosen level selected by the players. 
+
+Once a level card is drawn, the players must place the terrain tokens in their respective areas. Other than this, each player must also have dice to facilitate combat and other calculations. For example, each player would have a 1 D4, D8, as well as 2 D6 and 3 D20. In all, the D4, D8, and 1 of the D6s would be used for calculating damage of attacks; The other D6 would be for calculating accuracy in comparison to the opposing unit's armor; Lastly, the D20s should be there to keep track of the health of each player's unit, with the players changing the number on the top of the dice to represent the unit's current health. Additionally, the players will have 3 smaller dice, which will serve the simple purpose of representing the amount of faction abilities each player has currently.
+
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
 [Describe the physical version and the arrangement of its play area.]
+
+ The prototype is arranged so that the 6x6 grid remains in the center, with the level cards and terrain pieces either nearby or placed on the board. Each player's unit cards, health tracker dice, and faction point trackers are placed on their side of the board to make it easily viewable. The dice and coins are also kept beside or split among the players as needed. 
 
 ### Pieces And Their Purpose
 
